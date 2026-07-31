@@ -89,14 +89,14 @@ If you'd like to help shape the future of MCAF, please review the **Contributing
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Join the Journey
 
 MCAF is an evolving open-source ecosystem focused on making Microsoft Power Apps Code App development more modular, reusable, and AI-ready.
 
 If you're interested in contributing, experimenting, or providing feedback, we'd love to hear from you.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
