@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="MCAF Banner">
+</p>
 # MCAF
 
 **MikeGyver Code App Framework**
