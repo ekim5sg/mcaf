@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640">
+<rect width="1280" height="640" fill="#111827"/>
+
+<text x="640"
+y="220"
+text-anchor="middle"
+font-size="90"
+font-family="Segoe UI"
+fill="white"
+font-weight="bold">
+MCAF
+</text>
+
+<text x="640"
+y="320"
+text-anchor="middle"
+font-size="42"
+font-family="Segoe UI"
+fill="#60A5FA">
+MikeGyver Code App Framework
+</text>
+
+<text x="640"
+y="395"
+text-anchor="middle"
+font-size="28"
+font-family="Segoe UI"
+fill="#D1D5DB">
+Modern • AI-Powered • Enterprise • Power Apps Code Apps
+</text>
+</svg>
