@@ -91,4 +91,4 @@ If you'd like to help shape the future of MCAF, please review the **Contributing
 
 ## License
 
-This project is released under the **MIT License**.
+This project is licensed under the [MIT License](LICENSE).
